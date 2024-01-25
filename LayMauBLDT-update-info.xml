@@ -3,7 +3,7 @@
 	<!--số phiên bản mới-->
 	<version>1.0.0.0</version>
 	<!--đường dẫn tải file .zip chứa file đã cập nhật mới-->
-	<url>https://github.com/bnhquantrihddt/update/raw/main/LayMauBLDT-update-file.zip</url>
+	<url>https://github.com/bnhquantrihddt/update/raw/main/LayMauBLDT-setup.exe</url>
 	<!--các thay đổi-->
 	<changelog>changelog</changelog>
 	<!--có bắt buộc cập nhật hay không-->
