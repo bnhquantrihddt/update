@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<!--số phiên bản mới-->
-	<version>2.0.0.0</version>
+	<version>1.0.0.0</version>
 	<!--đường dẫn tải file .zip chứa file đã cập nhật mới-->
 	<url>https://github.com/bnhquantrihddt/update/raw/main/LayMauBLDT-update-file.zip</url>
 	<!--các thay đổi-->
