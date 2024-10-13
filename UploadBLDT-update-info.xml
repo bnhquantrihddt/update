@@ -5,7 +5,7 @@
 	<!--đường dẫn tải file .zip chứa file đã cập nhật mới-->
 	<url>https://raw.githubusercontent.com/bnhquantrihddt/update/main/UploadBLDT-update-file.zip</url>
 	<!--các thay đổi-->
-	<changelog>changelog</changelog>
+	<changelog>changelog 13-10-2024</changelog>
 	<!--có bắt buộc cập nhật hay không-->
 	<mandatory>false</mandatory>
 </item>
