@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<!--số phiên bản mới-->
-	<version>1.0.0.0</version>
+	<version>1.2025.8.29</version>
 	<!--đường dẫn tải file .zip chứa file đã cập nhật mới-->
 	<url>https://raw.githubusercontent.com/bnhquantrihddt/update/main/UploadBLDT-update-file.zip</url>
 	<!--các thay đổi-->
-	<changelog>changelog 13-10-2024</changelog>
+	<changelog>Thay đổi mẫu exclel: Thêm căn cước công dân và mã đơn vị quan hệ ngân sách của người nộp tiền</changelog>
 	<!--có bắt buộc cập nhật hay không-->
 	<mandatory>false</mandatory>
+
 </item>
