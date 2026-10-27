@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <item>
 	<version>1.0.0.0</version>
-	<url>https://github.com/bnhquantrihddt/update/raw/refs/heads/main/tool-convert-dabaco-update-file.zip</url>
-	<changelog>update and fix</changelog>
+	<url>https://raw.githubusercontent.com/bnhquantrihddt/update/refs/heads/main/tool-convert-dabaco-update-file.zip</url>
+	<changelog>https://google.com</changelog>
 	<mandatory>false</mandatory>
 </item>
